@@ -7,9 +7,8 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/saiful-shant0/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-<!--         <a href=""><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a> -->
         <a href="https://stackoverflow.com/users/16853277/saiful-islam-shanto"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://api.whatsapp.com/send/?phone=01516173249&text&type=phone_number&app_absent=0"><img src="https://camo.githubusercontent.com/f614756d0911c252fa10a7e9a9b5cfe6d9ff12d01c9815f5a92ecedbfb1382fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666c61742d726f756e64656472656374616e676c65266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="WhatsApp" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%; user-select: auto;"/></a>
+        <a href="https://api.whatsapp.com/send/?phone=01516173249&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"  style="max-width: 100%; user-select: auto;"/></a>
     </div>
 
 
@@ -90,10 +89,7 @@
 <p  align="center"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shant00&show_icons=true&locale=en&layout=compact" alt="shant00" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shant00&show_icons=true&locale=en" alt="shant00" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayshik&" alt="shant00" /></p>
-<p  align="center">  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shant00&show_icons=true&locale=en&layout=compact" alt="shant00" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shant00&show_icons=true&locale=en" alt="shant00" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayshik&" alt="shant00" />&nbsp;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
 <p align="center">
@@ -111,7 +107,7 @@
 <p  align="center">   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     </p>
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+    <p align="center"><img src="https://raw.githubusercontent.com/eagrundy/eagrundy/output/github-contribution-grid-snake.svg" alt="Just a Snake 🐍 Eating away my Contributions"></p>
 <p  align="center">   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     </p>

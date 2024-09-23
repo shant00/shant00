@@ -89,8 +89,7 @@
 <p  align="center"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
-<p align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shant00&show_icons=true&locale=en&layout=compact" alt="shant00" /></p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=shant00&show_icons=true&locale=en" alt="shant00" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayshik&" alt="shant00" />&nbsp;&nbsp;
+<p align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shant00&show_icons=true&locale=en&layout=compact" alt="shant00" /><img  src="https://github-readme-stats.vercel.app/api?username=shant00&show_icons=true&locale=en" alt="shant00" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayshik&" alt="shant00" />&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
 <p align="center">

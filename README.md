@@ -111,7 +111,7 @@
 <p  align="center">   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     </p>
- ![Snake animation](https://github.com/shant00/shant00/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 <p  align="center">   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     </p>
